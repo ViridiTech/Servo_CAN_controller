@@ -14,3 +14,4 @@ Top side has USB-C port, ESP32-C3FH4 chip, 40MHz crystal oscillator, CAN transci
 
 # Disclaimer
 This board is yet to be assembled and tested
+I welcome you to discussion!
